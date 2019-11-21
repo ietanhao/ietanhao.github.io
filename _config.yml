@@ -6,10 +6,10 @@ url: https://ietanhao.github.io
 resume_site: https://ietanhao.github.io/me/
 github: https://github.com/ietanhao
 baseurl: ""  #根目录
-description: 谭浩的成长日记
-motto: 日拱一卒
+description: 今天的你比昨天更博学了吗？
+motto: 读万卷书，行万里路
 #motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 穿越山和大海
+banner: 日拱一卒无有尽，功不唐捐终入海
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
