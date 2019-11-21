@@ -1,0 +1,27 @@
+# Site settings
+name: 谭浩的博客
+email: realtanhao@gmail.com
+author: tanhao
+url: https://ietanhao.github.io
+resume_site: https://ietanhao.github.io/me/
+github: https://github.com/ietanhao
+baseurl: ""  #根目录
+description: 谭浩的成长日记
+motto: 日拱一卒
+#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
+banner: 穿越山和大海
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+excerpt_separator:  '<!-- more -->' #文章摘要
+paginate: 8
+paginate_path: "page:num"
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+github_username: ietanhao
+highlighter: rouge
+markdown: kramdown
+FB:
+  comments :
+    provider : disqus
+    disqus :
+        short_name : tanhao
